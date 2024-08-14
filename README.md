@@ -29,8 +29,8 @@ As an SOC L1 analyst, my mission is to protect organizations and individuals glo
 
 ### Programming
 <div>
-    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
 ## Projects
