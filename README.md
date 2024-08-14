@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hello, I'm Muhammad Dawood
+<a href="https://www.linkedin.com/in/idavidkhan/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**idavidkhan/idavidkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate cybersecurity professional specializing in Security Operations Centers (SOC) with 1 year of hands-on lab experience in cybersecurity. I excel in proactive threat monitoring, rapid incident response, and am committed to continuous learning and excellence. Known for meticulous attention to detail, strong problem-solving skills, and a collaborative approach to cybersecurity challenges.
 
-Here are some ideas to get you started:
+## Objective
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As an SOC L1 analyst, my mission is to protect organizations and individuals globally from cyber threats through the adept application of cutting-edge technologies and advanced methodologies. I am passionate about contributing to the global cybersecurity landscape.
+
+## Tools
+### Network Analysis
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tcpdump-1679A7?&style=for-the-badge&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+</div>
+
+
+### Virtualization
+<div>
+    <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+</div>
+
+### Programming
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
+</div>
+
+## Projects
+- **Caesar Cipher Encryption Tool**
+- **Password Complexity Checker**
+- **Network Packet Analyzer**
+- **Wireshark and Tcpdump for Network Traffic Analysis**
+- **Network Device Configuration and Hardening**
+- **Operating System Installation and Hardening**
+- **DNS Protocol Data Exfiltration Lab**
+- **Wazuh Server and Agent Configuration**
+
+## Courses
+<div>
+    <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+</div>
+<div>
+  <img src="https://img.shields.io/badge/-Cisco_Networking_Basics-1A1D23?&style=for-the-badge&logo=Cisco&logoColor=white" />
+</div>
+
