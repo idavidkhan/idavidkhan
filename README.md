@@ -9,8 +9,7 @@ As an SOC L1 analyst, my mission is to protect organizations and individuals glo
 
 ## TryHackMe
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2575165" style='border:none;'></iframe>
-
+[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2575165)](https://tryhackme.com/profile/2575165)
 
 ## Tools
 ### Network Analysis
