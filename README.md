@@ -10,9 +10,6 @@ Passionate cybersecurity professional specializing in Security Operations Center
 
 As an SOC L1 analyst, my mission is to protect organizations and individuals globally from cyber threats through the adept application of cutting-edge technologies and advanced methodologies. I am passionate about contributing to the global cybersecurity landscape.
 
-## TryHackMe
-
-[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2575165)](https://tryhackme.com/profile/2575165)
 
 ## Tools
 ### Network Analysis
