@@ -54,4 +54,6 @@ As an SOC L1 analyst, my mission is to protect organizations and individuals glo
 <div>
   <img src="https://img.shields.io/badge/-Cisco_Networking_Basics-1A1D23?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
-
+<a href="[YOUR_CERTIFICATE_LINK_HERE](https://www.udemy.com/certificate/UC-d9ad72d0-e11c-4367-9b58-bf3ae6ea48ff/)">
+    <img src="https://img.shields.io/badge/-Udemy-EC5252?&style=for-the-badge&logo=udemy&logoColor=white" />
+</a>
