@@ -1,6 +1,8 @@
 # Hello, I'm Muhammad Dawood
 <a href="https://www.linkedin.com/in/idavidkhan/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+<a href="https://tryhackme.com/r/p/idavidkhan">
+    <img src="https://img.shields.io/badge/-TryHackMe-2D5B8B?&style=for-the-badge&logo=tryhackme&logoColor=white" />
+</a>
 Passionate cybersecurity professional specializing in Security Operations Centers (SOC) with 1 year of hands-on lab experience in cybersecurity. I excel in proactive threat monitoring, rapid incident response, and am committed to continuous learning and excellence. Known for meticulous attention to detail, strong problem-solving skills, and a collaborative approach to cybersecurity challenges.
 
 ## Objective
