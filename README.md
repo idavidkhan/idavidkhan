@@ -54,6 +54,6 @@ As an SOC L1 analyst, my mission is to protect organizations and individuals glo
 <div>
   <img src="https://img.shields.io/badge/-Cisco_Networking_Basics-1A1D23?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
-<div>
-    <img src="https://img.shields.io/badge/-Cyber%20Security%20-%20SOC%20and%20SIEM%20(SPLUNK%26ELK)%20for%20Beginners%20-2024-EC5252?&style=for-the-badge&logo=udemy&logoColor=white" />
+<div> 
+  <img src="https://img.shields.io/badge/-Cyber_Security_SOC_and_SIEM_(SPLUNK_&_ELK)_for_Beginners-2024-4285F4?&style=for-the-badge&logo=Udemy&logoColor=white" />
 </div>
