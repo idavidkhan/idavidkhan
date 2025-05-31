@@ -17,7 +17,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🌱 I’m currently learning Python & SecOps. 
+- 🌱 I’m currently learning DevOps,Python & SecOps. 
 - 👯 I’m looking to collaborate on open-source DevOps & tooling. 
 
 
