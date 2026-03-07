@@ -52,9 +52,6 @@
 <a href="https://www.instagram.com/idavidkhan">
   <img height="45" alt="Muhammad Dawood | Instagram"  src="https://user-images.githubusercontent.com/60597290/173852523-c34e15e4-dc3b-4c2a-a5a4-d460b96e4151.png" />
 </a>
-<a href="https://x.com/david_devops20">
-    <img height="45" src="https://user-images.githubusercontent.com/60597290/173852545-4b8a3257-69ac-42ad-895e-bb842fd60372.png" />
-</a> 
 
 <br>
 <br>
