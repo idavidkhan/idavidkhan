@@ -12,7 +12,7 @@
 <p align="left">
 
 <a href="http://idavidkhan.github.io/DevOps/">
-    <img height="45" src="https://freepngimg.com/save/99120-www-free-hd-image/920x961" />
+    <img height="45" src="https://media.istockphoto.com/id/1199391462/vector/web-icon-stock-illustration.jpg?s=612x612&w=0&k=20&c=DX2J4_HneAzL_abjvqwfzVwzhqkXCtmqzzi_dBx5TP8=" />
 </a>  
 
 <a href="https://www.instagram.com/idavidkhan">
@@ -21,7 +21,7 @@
 
 
 <a href="https://www.linkedin.com/in/idavidkhan/" target="blank">
-<img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="Muhammad Dawood" height="30" width="40" />
+<img align="center" src="https://static.vecteezy.com/system/resources/previews/023/986/970/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" alt="Muhammad Dawood" height="30" width="40" />
 </a>
 </p>
 
