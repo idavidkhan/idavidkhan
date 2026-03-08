@@ -21,7 +21,7 @@
 
 
 <a href="https://www.linkedin.com/in/idavidkhan/" target="blank">
-<img align="center" src="https://static.vecteezy.com/system/resources/previews/023/986/970/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" alt="Muhammad Dawood" height="30" width="40" />
+<img align="center" src="https://static.vecteezy.com/system/resources/previews/023/986/970/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" />
 </a>
 </p>
 
