@@ -10,8 +10,18 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
+
+<a href="http://idavidkhan.github.io/DevOps/">
+    <img height="45" src="https://freepngimg.com/save/99120-www-free-hd-image/920x961" />
+</a>  
+
+<a href="https://www.instagram.com/idavidkhan">
+  <img height="45" alt="Muhammad Dawood | Instagram"  src="https://png.pngtree.com/element_our/sm/20180509/sm_5af2b7f45ec78.jpg" />
+</a>
+
+
 <a href="https://www.linkedin.com/in/idavidkhan/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muhammad Dawood" height="30" width="40" />
+<img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="Muhammad Dawood" height="30" width="40" />
 </a>
 </p>
 
@@ -55,18 +65,6 @@
 
 ---
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> </h2>
-
-<!--- social media icons, you can find them in assets directory of this repo --->
-<a href="http://idavidkhan.github.io/DevOps/">
-    <img height="45" src="https://user-images.githubusercontent.com/60597290/173854214-c646c175-420c-40a6-b994-25acf90dcac4.png" />
-</a>  
-<a href="https://www.linkedin.com/in/idavidkhan/">
-  <img height="45" alt="MuhammadDawood" | LinkedIn"  src="https://user-images.githubusercontent.com/60597290/173852531-4343e250-e3cb-4bdb-b84f-50695c64aa12.png"/>
-</a> 
-<a href="https://www.instagram.com/idavidkhan">
-  <img height="45" alt="Muhammad Dawood | Instagram"  src="https://user-images.githubusercontent.com/60597290/173852523-c34e15e4-dc3b-4c2a-a5a4-d460b96e4151.png" />
-</a>
 
 ---
 
