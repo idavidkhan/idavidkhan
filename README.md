@@ -1,5 +1,5 @@
 <h1 align="center">Muhammad Dawood</h1>
-<h3 align="center">DevOps Engineer · Islamabad, Pakistan</h3>
+<h3 align="center">DevOps Engineer</h3>
 <p align="center">
   Building and automating cloud infrastructure on AWS with Terraform, 
   Docker, Kubernetes, and CI/CD pipelines.
@@ -53,5 +53,5 @@ pipeline runtime by 3 minutes per build.
 ---
 
 ## 📫 Open To
-DevOps internships and junior roles · Available immediately
+DevOps Roles · Available immediately
 idavidkhann@gmail.com
